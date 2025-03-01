@@ -19,4 +19,4 @@ Our main focus was secure,paperless and faster way of claiming health insurance 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Coding_wizard-77/Insta-Claim-IHCH.git
+   git clone https://github.com/Coding-wizard-77/Insta-Claim-IHCH.git
